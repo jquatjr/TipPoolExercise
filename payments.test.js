@@ -1,5 +1,3 @@
-// Solution provided by Springboard
-
 describe("Payments test (with setup and tear-down)", function () {
     beforeEach(function () {
         billAmtInput.value = 100;
