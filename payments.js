@@ -1,3 +1,5 @@
+// Code provided by Springboard
+
 let billAmtInput = document.getElementById('billAmt');
 let tipAmtInput = document.getElementById('tipAmt');
 let paymentForm = document.getElementById('paymentForm');

@@ -1,3 +1,5 @@
+// Code provided by Springboard
+
 describe("Utilities test (with setup and tear-down)", function () {
     beforeEach(function () {
         billAmtInput.value = 100;

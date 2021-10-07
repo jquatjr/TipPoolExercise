@@ -1,3 +1,5 @@
+// Code provided by Springboard
+
 // accepts 'tipAmt', 'billAmt', 'tipPercent' and sums total from allPayments objects
 function sumPaymentTotal(type) {
   let total = 0;

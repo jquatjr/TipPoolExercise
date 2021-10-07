@@ -1,3 +1,5 @@
+// Code provided by Springboard
+
 describe("Servers test (with setup and tear-down)", function () {
   beforeEach(function () {
     serverNameInput.value = 'Alice';
