@@ -1,3 +1,5 @@
+// Starter code provided by Springboard
+
 let serverNameInput = document.getElementById('serverName');
 let serverForm = document.getElementById('serverForm');
 

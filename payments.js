@@ -1,3 +1,5 @@
+// Starter code provided by Springboard
+
 let billAmtInput = document.getElementById('billAmt');
 let tipAmtInput = document.getElementById('tipAmt');
 let paymentForm = document.getElementById('paymentForm');
@@ -73,6 +75,6 @@ function updateSummary() {
 
   summaryTds[0].innerHTML = '$' + sumPaymentTotal('billAmt');
   summaryTds[1].innerHTML = '$' + sumPaymentTotal('tipAmt');
-  summaryTds[2].innerHTML =  Math.round(tipPercentAvg) + '%';
+  summaryTds[2].innerHTML = Math.round(tipPercentAvg) + '%';
 }
 
